@@ -1,5 +1,7 @@
 ## Emotion Recognition inference code using ONNX Runtime
 
+![Vizualization](https://github.com/Shohruh72/Emotion_onnx/blob/main/weights/demo.gif)
+
 ### Installation
 
 ```
